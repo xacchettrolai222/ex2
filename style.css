@@ -1,0 +1,26 @@
+.title {
+  text-align: center;
+}
+.table {
+  text-align: center;
+}
+.element {
+  width: 700px;
+}
+#first {
+  text-align: left;
+}
+#second {
+  text-align: left;
+}
+#calcu {
+  margin-left: 205px;
+  font-weight: bold;
+}
+#result {
+  margin-left: 205px;
+}
+#ketqua {
+  padding-left: 10px;
+}
+
